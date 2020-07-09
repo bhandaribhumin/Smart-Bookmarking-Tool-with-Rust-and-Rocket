@@ -32,8 +32,11 @@ Open Browser
 
 # Navigate
 
-Navigate to GitHub - http://localhost:8000/search?cmd=gh
-Navigate to GitHub - http://localhost:8000/search?cmd=gh%20bhandaribhumin/Toy-Robot-Simulator-ionic
+Navigate to GitHub -
+
+> http://localhost:8000/search?cmd=gh
+> Navigate to GitHub -
+> http://localhost:8000/search?cmd=gh%20bhandaribhumin/Toy-Robot-Simulator-ionic
 
 ## test
 
